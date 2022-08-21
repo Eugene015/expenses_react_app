@@ -1,3 +1,11 @@
+# Expenses_react_app
+
+Educational project based on React JS technology using functional components and hooks (useState).
+
+https://eugene015.github.io/expenses_react_app/
+
+![expensesapp](https://user-images.githubusercontent.com/101366301/185785236-5433e626-cc5b-407a-8ba2-2e0caa73bfff.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
